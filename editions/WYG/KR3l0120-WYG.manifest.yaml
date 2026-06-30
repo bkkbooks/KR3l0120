@@ -1,0 +1,44 @@
+canonical_identifier: bkk:krp/KR3l0120/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR3l0120/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 陶朱新錄
+  date: '2015-08-24 23:41:37.041806'
+  source:
+    repository: kanripo
+    path: KR3l0120
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR3l0120_000-WYG.yaml, hash: 'sha256:d2d67e416af6654865d95fe1ab6856452cbe771c8bc889a63eb8279f2e9f34a9'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3l0120_000-WYG.markers.yaml, hash: 'sha256:ac0d8e4d5869acf759bfb21b5e29de23e1cd5b8041a20bb6096fc330c213ef24'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3l0120_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 381
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3l0120_WYG_000-3a
+    span:
+    - body
+    - 381
+    - 13071
+  label: 陶朱新録
+  type: section
+  level: 1
+hash: sha256:826b7d8366beb1532bfa95afa225a9f522d998506aba4450ae8259d211942686
