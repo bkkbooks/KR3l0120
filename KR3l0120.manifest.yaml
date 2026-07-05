@@ -20,9 +20,9 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR3l0120_000.yaml, hash: 'sha256:dfe699e5e2fa3d53d57accff51fdd4da9fc45d936c5418e7fd57eaa773eb6f14'}
+  - {seq: 0, filename: KR3l0120_000.yaml, hash: 'sha256:dd58cbf418246fb71e928e68f013a3c7379ef5c3420ba4cee4b1bed2216d65b1'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3l0120_000.markers.yaml, hash: 'sha256:af231d4b185a921ac54e81f9ed3c90422d669bb57d9b92d8a7b653557611d800'}
+  - {seq: 0, role: markers, filename: assets/KR3l0120_000.markers.yaml, hash: 'sha256:0f0f5f67c6bbd01438b8b69d68a30cf5578c485041e9551f49253c5f985a8b9f'}
 table_of_contents:
 - ref:
     seq: 0
@@ -44,7 +44,4 @@ table_of_contents:
   label: 陶朱新録
   type: section
   level: 1
-hash: sha256:4ad4cd088edb91224695cec448d6fa83560001af8ff6efece1e4426101ce9d5d
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:8e3e7693ed8be49fb296a7e8ff114f7ce1f480dd68db6735213c24d980159218
